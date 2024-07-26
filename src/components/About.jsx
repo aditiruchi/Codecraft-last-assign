@@ -14,15 +14,15 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Hello, I'm Aditi Anand, a 3rd-year undergraduate student at IIT Kanpur, majoring in Mechanical Engineering. 
+          Hello, I'm Khushboo Kumari, a 2nd-year undergraduate student at IIT Kanpur, majoring in Electrical Engineering. 
           I have a strong interest in programming, cybersecurity, and machine learning. 
         </p>
 
         <br />
 
         <p className="text-xl">
-          I have achieved a CPI of 6.1/10 and secured an impressive score of 95.2% in CBSE XII. 
-          I have participated in various projects, including developing a gesture-controlled car and a handwriting digit recognition web application.
+          I have achieved a CPI of 5.8/10 and secured a percentile of 99.35 in Maths in JEE Mains 2022. 
+          I have participated in various projects, including developing a dynamic sorting visualizer and a Tic Tac Toe game.
         </p>
 
         <br />

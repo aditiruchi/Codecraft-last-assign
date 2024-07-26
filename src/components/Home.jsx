@@ -12,10 +12,10 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm Aditi Anand, a Full Stack Developer
+            I'm Khushboo Kumari, a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I am a 3rd Year Undergraduate student at IIT Kanpur with a major in Mechanical Engineering. I have experience of building and designing software. I am skilled in various programming languages and libraries including C++, Python, Matlab, and Numpy. Currently, I love to work on web application development using React, and I have a keen interest in cybersecurity and computer vision.
+            I am a 2nd Year Undergraduate student at IIT Kanpur with a major in Electrical Engineering. I have experience building and designing software. I am skilled in various programming languages and libraries including C++, Python, Matlab, and Numpy. Currently, I love to work on web application development using React, and I have a keen interest in cybersecurity and computer vision.
           </p>
 
           <div>

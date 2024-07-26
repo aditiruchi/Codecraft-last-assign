@@ -46,9 +46,9 @@ const Contact = () => {
         </div>
 
         <div className="mt-8">
-          <p className="text-lg">Email: <a href="mailto:aditian22@iitk.ac.in" className="text-cyan-500">aditian22@iitk.ac.in</a></p>
-          <p className="text-lg">Phone: <a href="tel:+917894627395" className="text-cyan-500">+91-7894627395</a></p>
-          <p className="text-lg">GitHub: <a href="https://github.com/aditiruchi" className="text-cyan-500">aditiruchi</a></p>
+          <p className="text-lg">Email: <a href="mailto:khushbookr22@iitk.ac.in" className="text-cyan-500">khushbookr22@iitk.ac.in</a></p>
+          <p className="text-lg">Phone: <a href="tel:+919352941607" className="text-cyan-500">+91-93529-41607</a></p>
+          <p className="text-lg">GitHub: <a href="https://github.com/Khushbooraii" className="text-cyan-500">Khushboo</a></p>
         </div>
       </div>
     </div>
